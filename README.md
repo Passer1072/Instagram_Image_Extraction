@@ -3,4 +3,4 @@
 #### 使用方法：
 将对应ins推文的链接贴入输入框中，点击提交链接按钮，等待脚本运行完成即可。  
 ❗**注意**：国内需要科学上网才能提取  
-下载可直接使用的exe文件：[Instagram crawler](dist/Instagram crawler.exe)
+下载可直接使用的exe文件：[Instagram crawler](https://1drv.ms/u/s!At2Twb-tSku-lLEnK-KVnv-OsjnjsA?e=DDAyh5)
