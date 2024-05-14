@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+pyperclip==1.8.2
+requests==2.31.0
+selenium==4.20.0
+pillow==10.3.0
+beautifulsoup4==4.12.3
